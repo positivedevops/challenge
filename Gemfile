@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "sinatra"
 gem "sinatra-contrib"
 gem "httparty"
+gem "json_spec"
 
 group :development do
   gem "pry"
