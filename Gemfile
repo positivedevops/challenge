@@ -1,8 +1,9 @@
-ruby "2.1.5"
+ruby "2.3.3"
 source "https://rubygems.org"
 
 gem "sinatra"
 gem "sinatra-contrib"
+gem "httparty"
 
 group :development do
   gem "pry"
